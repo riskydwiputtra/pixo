@@ -1,6 +1,7 @@
 {
-  "name": "holdertea",
-  "version": "1.1.4",
+  "name": "pixo.inc",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,5 +23,5 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.3"
-
-
+  }
+}
